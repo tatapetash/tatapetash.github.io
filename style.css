@@ -1,0 +1,73 @@
+/* css for website */
+body{
+	background-color: #FFEFD5;
+}
+	main {
+		
+	}
+	
+	header{
+	background-color: #FFEFD5;
+	margin-left: 0px;
+	text-align: center;
+	font-family: lobster;
+}
+	
+	footer{
+		background-color: #FFEFD5;
+		color:black;
+		text-align: center; 
+		
+	}
+.home{
+	background-color:#deb887;
+}
+.home-2-col{
+	display: inline-block;
+	width: 1400px;
+	margin-left: 0px;
+	margin-right: 5px;
+	vertical-align: top;
+}
+.home-small-picture{
+	width: 100%;
+}
+.home-3-col{
+	display: inline-block;
+	width: 400px;
+	margin-left: 20px;
+	vertical-align: top;
+	font-size: 20px
+}
+.home-4-col{
+	display: inline-block;
+	width: 600px;
+	margin-left: 700px;
+	vertical-align: top;
+	font-size: 20px
+
+}
+.home-5-col{
+	display: inline-block;
+	width: 600px;
+	margin-left: 20px;
+	vertical-align: top;
+	font-size: 22px
+}
+.home-6-col{
+	display: inline-block;
+	width: 340px;
+	margin-left: 70px;
+	vertical-align: top;
+}
+.home-6-col-dad{
+	padding-top: 35px;
+	
+}
+.home-7-col{
+	display: inline-block;
+	width: 400px;
+	margin-left: 20px;
+	vertical-align: top;
+	font-size: 20px
+}
