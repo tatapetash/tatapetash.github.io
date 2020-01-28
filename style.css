@@ -42,11 +42,11 @@ body{
 .home-4-col{
 	display: inline-block;
 	width: 600px;
-	margin-left: 700px;
+	margin-left: 20px;
 	vertical-align: top;
 	font-size: 20px
-
 }
+
 .home-5-col{
 	display: inline-block;
 	width: 600px;
@@ -71,3 +71,5 @@ body{
 	vertical-align: top;
 	font-size: 20px
 }
+.home-8-col{
+	
